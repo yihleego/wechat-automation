@@ -1,5 +1,9 @@
 # WeChat Automation
 
+## Archiving
+
+WeChat Automation has been archived, please see [Robotic Process Automation](https://github.com/yihleego/robotic-process-automation).
+
 ## What Is Robotic Process Automation (RPA)
 
 Robotic process automation (RPA) occurs when basic tasks are automated through software or hardware systems that
